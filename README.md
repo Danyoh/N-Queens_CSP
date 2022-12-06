@@ -6,16 +6,8 @@ The n-queens puzzle is the problem of placing n queens on an n x n chessboard su
 Output is to text file
 
 n=10
-- - - - Q - - - - - 
-- Q - - - - - - - - 
-- - - - - - - Q - - 
-- - - - - - - - - Q 
-- - - - - - Q - - - 
-- - - Q - - - - - - 
-Q - - - - - - - - - 
-- - - - - - - - Q - 
-- - - - - Q - - - - 
-- - Q - - - - - - - 
+
+![image](https://user-images.githubusercontent.com/56001475/205818807-c8f61a3e-d47b-4184-8da3-a94fe7e3d849.png)
 
 Convert to jpeg using OpenCV+numpy+python
 
