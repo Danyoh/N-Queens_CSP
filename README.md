@@ -1,2 +1,4 @@
-# N-Queens_CSP
-N-Queens as a CSP using genetic algorithm or min-conflicts
+# N-Queens
+
+## Problem Definition
+The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
